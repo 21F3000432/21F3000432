@@ -1,5 +1,36 @@
 # 💫 About Me:
-👋 About Me<br><br>🎓 Data Science Undergraduate | IIT Madras<br>I am a Data Science student at IIT Madras with a strong focus on Machine Learning, Artificial Intelligence, and Deep Learning. My interests span the theoretical foundations of ML, practical system building, and real-world deployment considerations. I aim to develop ML solutions that are both mathematically sound and practically impactful.<br><br>🔬 Currently Working On<br><br>End-to-end Machine Learning projects, covering data preprocessing, feature engineering, modeling, and evaluation<br><br>Implementing core ML algorithms from first principles to strengthen conceptual understanding<br><br>Experimenting with Deep Learning architectures and Transformer-based models<br><br>Exploring practical applications of Generative AI and Large Language Models<br><br>🤝 Looking to Collaborate On<br><br>Applied Machine Learning and AI projects<br><br>Research-oriented ML, Deep Learning, and GenAI work<br><br>LLM-based applications, intelligent agents, and data-driven systems<br><br>Projects with clear problem statements, measurable outcomes, or research value<br><br>🧠 Currently Learning<br><br>Deep Learning (CNNs, RNNs, Transformers)<br><br>Generative AI, Large Language Models, and prompt-based systems<br><br>Agentic AI and autonomous decision-making workflows<br><br>Optimization, linear programming, and statistical learning techniques used in ML<br><br>💬 Ask Me About<br><br>Machine Learning fundamentals and model trade-offs<br><br>Structuring ML projects from research to production<br><br>Optimization, mathematical intuition, and algorithmic thinking for ML<br><br>Getting started with AI/ML as a student<br><br>⚡ Fun Fact<br>I prefer implementing algorithms from scratch before relying on libraries—it helps me understand model behavior and failure modes.
+## 👋 About Me
+
+🎓 **Data Science Undergraduate | IIT Madras**  
+I am a Data Science student at IIT Madras with a strong focus on Machine Learning, Artificial Intelligence, and Deep Learning. My interests span the theoretical foundations of ML, practical system building, and real-world deployment considerations. I aim to develop ML solutions that are both mathematically sound and practically impactful.
+
+### 🔬 Currently Working On
+- End-to-end Machine Learning projects covering data preprocessing, feature engineering, modeling, and evaluation  
+- Implementing core ML algorithms from first principles to strengthen conceptual understanding  
+- Experimenting with Deep Learning architectures and Transformer-based models  
+- Exploring practical applications of Generative AI and Large Language Models  
+
+### 🤝 Looking to Collaborate On
+- Applied Machine Learning and Artificial Intelligence projects  
+- Research-oriented ML, Deep Learning, and GenAI work  
+- LLM-based applications, intelligent agents, and data-driven systems  
+- Projects with clear problem statements, measurable outcomes, or research value  
+
+### 🧠 Currently Learning
+- Deep Learning (CNNs, RNNs, Transformers)  
+- Generative AI, Large Language Models, and prompt-based systems  
+- Agentic AI and autonomous decision-making workflows  
+- Optimization, linear programming, and statistical learning techniques used in ML  
+
+### 💬 Ask Me About
+- Machine Learning fundamentals and model trade-offs  
+- Structuring ML projects from research to production  
+- Optimization, mathematical intuition, and algorithmic thinking for ML  
+- Getting started with AI/ML as a student  
+
+### ⚡ Fun Fact
+I prefer implementing algorithms from scratch before relying on libraries—it helps me understand model behavior and failure modes.
+
 
 
 ## 🌐 Socials:
